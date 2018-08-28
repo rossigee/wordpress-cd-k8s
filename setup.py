@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name = 'wordpress-cd-k8s',
-    version = '0.0.1',
+    version = '0.0.2',
     description = 'Wordpress CD driver to deploy sites via Kubernetes deployments.',
     author = 'Ross Golder',
     author_email = 'ross@golder.org',
